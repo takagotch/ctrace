@@ -23,6 +23,15 @@ https://github.com/Nordstrom/ctrace
     "sku": "xxxxx",
     "label": "NewPump"
   },
+  "logs": [
+    "timestamp": xxxxxxxxxx,
+    "event": "Finish-Span"
+  ],
+  "baggage": {
+    "origin": "xxxxxxxxx",
+    "agent": "xxxxxx",
+    "user": "xxxxxxxxxxxx"
+  }
 }
 ```
 
